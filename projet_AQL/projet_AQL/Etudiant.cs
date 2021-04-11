@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Projet_AQL
 {
-    class Etudiant
+    public class Etudiant
     {
+        public int Code {get ;set;}
+        public string Nom {get; set;}
+        public string Prenom {get; set;}
+        
     }
 }
