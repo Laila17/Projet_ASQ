@@ -6,6 +6,9 @@ namespace Projet_AQL
 {
     public class Etudiant
     {
+
+        //Proprietes de la classe Etudiant
+
         public int Code {get ;set;}
         public string Nom {get; set;}
         public string Prenom {get; set;}
