@@ -6,6 +6,7 @@ namespace Projet_AQL
 {
     public class Cours
     {
+        //Prorietes de la classe Cours
         public int NumeroCours { get; set; }
         public int Code { get; set; }
         public string Titre { get; set; }
